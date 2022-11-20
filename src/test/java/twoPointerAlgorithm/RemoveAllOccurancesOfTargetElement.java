@@ -24,7 +24,7 @@ public static int[] bruteForceMethod(int[] input, int target){
        }
        i+=1;
    }
-
+return input;
    }
 
 
